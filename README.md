@@ -1,6 +1,8 @@
 # Play-Pause Video Player
 
-<img src="img-preview/img-preview" width="100%" />
+<p align="center">
+  <img src="img-preview/img-preview.png" width="50%" />
+</p>
 
 Este é um projeto simples de **player de vídeo** com funcionalidade de **Play/Pause**, construído com **React**, **TypeScript**, **TailwindCSS** e **React Icons**.
 
